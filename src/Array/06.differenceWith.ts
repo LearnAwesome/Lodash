@@ -7,7 +7,7 @@ import * as _ from 'lodash';
  * 第三个参数为迭代器，类型为一个函数
  * @param: [array]{Array} 原数组
  * @param: [[values]]{Array} 比对数组
- * @param: [iteratee]{Function|String|Number} 迭代器
+ * @param: [iteratee]{Function} 迭代器
  * @return: [array]{Array} 结果数组
 */
 
