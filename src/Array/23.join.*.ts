@@ -1,0 +1,1 @@
+// use {Array.prototype.join} instead

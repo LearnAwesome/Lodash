@@ -1,0 +1,1 @@
+// use {Array[Array.length - 1]} instead
