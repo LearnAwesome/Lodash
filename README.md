@@ -8,9 +8,9 @@ https://www.lodashjs.com/docs/4.17.5.html
 
 Typescript
 
-## Schedule [ 31 / 323 ]
+## Schedule [ 40 / 323 ]
 
-* Array [ 31 / 64 ]
+* Array [ 40 / 64 ]
 * Collection [ 0 / 28 ]
 * Date [ 0 / 1 ]
 * Function [ 0 / 23 ]
